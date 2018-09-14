@@ -1,0 +1,19 @@
+
+body{
+    background-image: url("https://previews.123rf.com/images/klenova/klenova1706/klenova170600044/80064646-food-food-background-food-health-food-eat-food-vegan-food-diet-food-concept-food-dinner-food-lunch-f.jpg");
+}
+h2{
+    margin-top: 30px;
+   text-decoration: underline; 
+   font-weight: bold;
+}
+h3{
+    text-decoration: underline;
+    font-weight: bold;
+}
+img
+{
+    border: 2px dotted MediumSeaGreen;
+    margin-top: 35px;
+    width:100%;
+}
