@@ -1,19 +1,22 @@
 
 body{
-    background-image: url("https://previews.123rf.com/images/klenova/klenova1706/klenova170600044/80064646-food-food-background-food-health-food-eat-food-vegan-food-diet-food-concept-food-dinner-food-lunch-f.jpg");
+    background-image: url("http://www.andaluciarealestate.info/wp-content/uploads/2018/04/free-lemon-two-slices-backgrounds-for-powerpoint-foods-and-original-food-background-for-powerpoint.jpg");
 }
-h2{
+.menu {
+    font-weight: 600;
+    color: black;
+    margin-bottom: 40px;
+    font-size: large;
+}
+h3 {
     margin-top: 30px;
+    margin-bottom: 40px;
    text-decoration: underline; 
    font-weight: bold;
 }
-h3{
+
+h4 {
+    margin-top: 20px;
     text-decoration: underline;
     font-weight: bold;
-}
-img
-{
-    border: 2px dotted MediumSeaGreen;
-    margin-top: 35px;
-    width:100%;
 }
