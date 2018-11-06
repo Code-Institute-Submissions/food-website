@@ -1,9 +1,14 @@
 h2{
     color: black;
     text-decoration: underline;
-    margin-top: 45%;
 }
+.thanks{
+     min-height: 100vh; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
 
+}
 body{
     background-color: 	#FAEBD7;
 }

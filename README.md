@@ -18,8 +18,7 @@ I have provided a "About Us and Testimonials Section" to build customer trust an
 A feedback form is also provided for existing customers to give their feedback, so the business can keep on improving itself. Various contact and social media connection options are provided aswell, 
 including a "Call Back" request form on the last page of the website.
 
-Features left to implement would be the use of the actual "APP" element. The buttons can lead to actual pages, for example "sign in page", "our membership options page", "feedback form submission confirmation page", 
-"feedback reviews page", "call back request page" and "social media linked pages".
+Features left to implement would be the use of the actual "APP" element. Some buttons can lead to actual pages, for example "sign in page", "our membership options page" and "social media linked pages".
 
 
 ## TECHNOLOGIES USED!
@@ -31,8 +30,8 @@ Css color options, html tags and form layouts have been sourced from w3schools.c
 
 ## TESTING!
 
-I have tested the website on various screen sizes and browsers. This website works well on small screens and larger screens. Currently this website doesn't allow the use of the "buttons", 
-for example the "our membership packages", "sign in", "App store", "social media links" and "form submission" buttons dont lead anywhere. The internal pages are linked very well together, 
+I have tested the website on various screen sizes and browsers. This website works well on small screens and larger screens. Currently this website doesn't allow the use of all the "buttons", 
+for example the "our membership packages", "sign in", "App store" and "social media links" buttons dont lead anywhere. The internal pages are linked very well together, 
 so that the user can visit all five pages of the website flawlessly, in order to easily sign up with us.
 
 
