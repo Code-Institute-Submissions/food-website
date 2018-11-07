@@ -1,13 +1,15 @@
 
-body{
+body {
     background-image: url("http://www.andaluciarealestate.info/wp-content/uploads/2018/04/free-lemon-two-slices-backgrounds-for-powerpoint-foods-and-original-food-background-for-powerpoint.jpg");
 }
+
 .menu {
     font-weight: 600;
     color: black;
     margin-bottom: 40px;
     font-size: large;
 }
+
 h3 {
     margin-top: 30px;
     margin-bottom: 40px;

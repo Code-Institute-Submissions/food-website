@@ -2,6 +2,7 @@
 body {
     background-image: url("https://orig00.deviantart.net/b5f5/f/2012/108/6/3/yellow_windows_8_bubbles_background_by_gifteddeviant-d4wkhzw.png");
 }
+
 .menu {
     font-size:x-large;
     color: DarkBlue;
@@ -14,6 +15,7 @@ h3 {
     text-decoration: underline;
     font-weight: bold;
 }
+
 h4 {
     font-weight: bold;
     text-decoration: underline;

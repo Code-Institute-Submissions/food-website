@@ -1,16 +1,18 @@
 
-body{
+body {
     background-color: #FFFAF0;
 }
-header
-{
+
+header {
  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("http://flavorcanada.com/img/flavour.jpg");
  width:100%;
 }
-h1{
+
+h1 {
     font-weight: bold;
     text-decoration: underline;
 }
+
 h2 {
     margin-top: 20%;
     color:white;
@@ -33,8 +35,8 @@ button {
     margin:40px;
     margin-left: 30px;
     font-size: large;
-    
 }
+
 .btn-two {
     margin-top: 40px;
     margin-bottom: 40px;
@@ -66,16 +68,18 @@ button {
     margin-left: 43%;
     margin-bottom: 40px;
 }
+
 .features h4 {
     margin-left: 20%;
     text-decoration: underline #e67e22;
 }
+
 .visuals {
 margin-bottom: 50px;
 margin-left: 0;
 }
 
-.meals img {
+.meals {
     width: 100%;
     height: auto;
     overflow: hidden;
@@ -86,21 +90,24 @@ margin-left: 0;
      transition: all 0.5s;
      overflow: hidden;
 }
+
 .meals {
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
 .pic img {
     width: 90%;
     margin-left: 5%;
     margin-top: 50px;
     margin-right: 20px;
 }
+
 .design {
     margin-top: 50px;
 }
-.design div
-{
+
+.design div {
     border: 1px solid #e67e22;
     display: inline-block;
     border-radius: 50%;
@@ -109,13 +116,14 @@ margin-left: 0;
     text-align: center;
     line-height: 50px;
 }
+
 .design img {
     height: 40px;
     margin-top: 20px;
     margin-right: 20px;
 }
 
-.mobile  {
+.mobile {
     padding-top: 10px;
     margin-top: 10%;
     text-decoration: underline #e67e22;
@@ -124,24 +132,30 @@ margin-left: 0;
 .cities {
     margin-top: 100px;
 }
+
 .cities img {
     width:100%;
     margin-top: 50px;
 }
+
 .cities i {
     color: #e67e22;
 }
-.cities  {
+
+.cities {
     text-decoration: underline #e67e22;
 }
+
 .about {
     text-decoration: underline #e67e22;
     margin-top: 4%;
 }
+
 .about p {
     margin-top: 40px;
     font-size: larger;
 }
+
 .testimonials {
     margin-top: 80px;
     background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("https://www.tfnhealthylifestyle.com/wp-content/uploads/2018/05/depositphotos_102741630-stock-photo-healthy-eating-background-food-photography.jpg");
@@ -150,18 +164,21 @@ margin-left: 0;
     color: white;
     background-attachment: fixed;
 }
+
 .testimonials p {
     color: white;
     line-height: 25px;
     text-align: justify;
     margin-top: 40px;
 }
+
 .testimonials cite img {
     width: 50px;
     height: 50px;
     border-radius: 50%;
     margin-right: 10px;
 }
+
 .btn-block {
     background-color: #e67e22;
     color: #fff;
@@ -172,10 +189,12 @@ margin-left: 0;
 .gap {
     margin-top: 5px;
 }
+
 .form-control {
     margin-top: 5px;
 }
-    .fab {
+
+.fab {
     font-size: 30px;
     width: 50px;
     text-align: center;
@@ -186,15 +205,16 @@ margin-left: 0;
 .fab:hover {
     opacity: 0.7;
 }
-.form {
+
+.table {
     margin-top: 50px;
     text-decoration: underline #e67e22;
 }
 
-.form input
-{
+.table input {
     margin-top: 5px;
 }
+
 textarea {
     margin-top: 30%;
 }
